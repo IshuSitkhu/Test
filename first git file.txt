@@ -1,0 +1,5 @@
+hiii 
+git clone repo URL
+git add
+git commit-n "merge"
+git pull orgin main /Master
